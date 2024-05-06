@@ -1,4 +1,4 @@
 .idea
-.vercel
-/php/
 .env
+composer.lock
+/vendor/
